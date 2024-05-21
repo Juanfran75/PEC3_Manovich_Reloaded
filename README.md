@@ -1,13 +1,15 @@
-![Cultura Digital](https://raw.githubusercontent.com/Juanfran75/PEC3_Manovich_Reloaded/main/images/gafas.jpg)
 
-# PEC3: Visionando el futuro con las gafas de Manovich 
+# Visionando el futuro con las gafas de Manovich 
+
+![Cultura Digital](https://raw.githubusercontent.com/Juanfran75/PEC3_Manovich_Reloaded/main/images/gafas.jpg)
+> **[Geocaching](https://www.Geocaching.com/) y [Webwhiteboard](https://www.Webwhiteboard.com/) a través de las Gafas de Manovich**
 
 ## Recurso de aprendizaje de Cultura Digital 
 
-Autor: Juan Francisco Fernandez Dominguez
-Fecha: 21-05-2024
+**Autor: Juan Francisco Fernandez Dominguez**
+**Fecha: 21-05-2024**
 
-## Planteamiento
+## Introducción
 
 La hibridación de medios, según Lev Manovich, se produce cuando “Las propiedades y técnicas exclusivas de distintos medios se han convertido en elementos de software que pueden combinarse por vías que antes resultaban imposibles” (Manovich, 2013, p.183).En consecuencia, se trata de la fusión de dos o más medios distintos que da lugar a un medio completamente nuevo. En esta nueva entidad, los elementos de los medios convergentes se integran de tal manera que el medio resultante no puede descomponerse fácilmente en sus componentes originales. Esta convergencia introduce funcionalidades y formas de interacción inéditas que no estaban presentes en los medios originales por separado.
 
@@ -18,7 +20,7 @@ En un medio multimedia, los distintos tipos de medios (como audio, texto y video
     
 La remediación implica tomar un medio existente y recontextualizarlo dentro de otro, manteniendo un vínculo claro con su forma original. Por ejemplo, un libro digitalizado sigue siendo reconocible como un libro, aunque se lea en un dispositivo electrónico.
 
-### Re-descubriendo la hibridacion: Geocaching
+## Re-descubriendo la hibridacion: [Geocaching](https://www.Geocaching.com/)
 ![image](https://raw.githubusercontent.com/Juanfran75/PEC3_Manovich_Reloaded/main/images/geocaching_1.jpg) 
 
 Caso escogido (Cómo funciona y medios que incorpora) ¿Se crea un nuevo lenguaje?¿Es una "evolución del medio" , o una "remezcla" de medios?
@@ -30,7 +32,7 @@ Valoraciones personales y bibliografía
 Revisando Manovich en capítulos 3 y 5 (sobre todo) nos da una idea clara y ejemplos ilustrativos.
 
 
-## Re-descubriendo la hibridacion: Webwhiteboard 
+## Re-descubriendo la hibridacion: [Webwhiteboard](https://www.Webwhiteboard.com/) 
 ![image](https://raw.github.com/Juanfran75/PEC3_Manovich_Reloaded/main/images/webwhiteboard.png) 
 Caso escogido (Cómo funciona y medios que incorpora)¿Se crea un nuevo lenguaje?¿Es una "evolución del medio" , o una "remezcla" de medios?
 
@@ -42,7 +44,7 @@ Revisando Manovich en capítulos 3 y 5 (sobre todo) nos da una idea clara y ejem
 
 
 
-### Referencias y Bibliografía
+## Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 
