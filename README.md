@@ -2,7 +2,9 @@
 # PEC3: Visionando el futuro con las gafas de Manovich 
 
 ## Recurso de aprendizaje de Cultura Digital 
+
 Autor: Juan Francisco Fernandez Dominguez
+
 Fecha: 21-05-2024
 
 ## Planteamiento
