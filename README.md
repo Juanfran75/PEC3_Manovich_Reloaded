@@ -1,15 +1,15 @@
 ![Cultura Digital](https://raw.githubusercontent.com/Juanfran75/PEC3_Manovich_Reloaded/main/images/gafas.jpg)
+
 # PEC3: Visionando el futuro con las gafas de Manovich 
 
 ## Recurso de aprendizaje de Cultura Digital 
 
 Autor: Juan Francisco Fernandez Dominguez
-
 Fecha: 21-05-2024
 
 ## Planteamiento
 
-La hibridación de medios es la fusión de dos o más medios distintos que da lugar a un medio completamente nuevo. En esta nueva entidad, los elementos de los medios convergentes se integran de tal manera que el medio resultante no puede descomponerse fácilmente en sus componentes originales. Esta convergencia introduce funcionalidades y formas de interacción inéditas que no estaban presentes en los medios originales por separado.
+La hibridación de medios, según Lev Manovich, se produce cuando “Las propiedades y técnicas exclusivas de distintos medios se han convertido en elementos de software que pueden combinarse por vías que antes resultaban imposibles” (Manovich, 2013, p.183).En consecuencia, se trata de la fusión de dos o más medios distintos que da lugar a un medio completamente nuevo. En esta nueva entidad, los elementos de los medios convergentes se integran de tal manera que el medio resultante no puede descomponerse fácilmente en sus componentes originales. Esta convergencia introduce funcionalidades y formas de interacción inéditas que no estaban presentes en los medios originales por separado.
 
 Para reconocer un medio híbrido, es necesario identificar la integración de diversos tipos de medios que den lugar a formas de contenido y funcionalidades que no se puedan atribuir a ninguno de los medios originales por sí solos. La clave para distinguir un medio híbrido de otros conceptos como multimedia o remediación radica en la fusión inextricable de sus componentes.
 Comparación con Multimedia y Remediación
