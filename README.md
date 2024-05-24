@@ -22,7 +22,7 @@ Como señala Manovich: "A diferencia de la multimedia, que simplemente presenta 
 
 
 ## Re-descubriendo la hibridacion: [Geocaching](https://www.Geocaching.com/) 
-[![Alt text](https://img.youtube.com/vi/configuroweb/0.jpg)](https://www.youtube.com/watch?v=vuFiLhhCNww)
+[![Video ¿Que es el Geocaching?](https://img.youtube.com/vi/configuroweb/0.jpg)](https://www.youtube.com/watch?v=vuFiLhhCNww)
 ![image](https://raw.githubusercontent.com/Juanfran75/PEC3_Manovich_Reloaded/main/images/geocaching_1.jpg) 
 
 
