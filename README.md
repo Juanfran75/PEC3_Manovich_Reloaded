@@ -25,8 +25,9 @@ Como señala Manovich:  "" A diferencia de la multimedia, que simplemente presen
 
 ![image](https://raw.githubusercontent.com/Juanfran75/PEC3_Manovich_Reloaded/main/images/geocaching_3.png) 
 
-La idea de la hibridación de medios se refleja en la multitud de ejemplos presentes en nuestra vida cotidiana, abarcando diversas interfaces de usuario, aplicaciones web y móviles, diseño visual e interactivo, efectos visuales, medios locativos, entornos interactivos, arte digital y otros ámbitos de la cultura digital, según Manovich (2013, p.223).
 
+
+Según Lev Manovich “Una vez traducidas a software, las técnicas de medios han empezado a actuar como una especie dentro una ecología común; en este caso, un entorno de software compartido. Una vez «liberadas» a este entorno, han empezado a interaccionar, mutar y fabricar híbridos.” 
 
 Un ejemplo concreto de esta hibridación mediática es Geocaching, una plataforma de geolocalización de "tesoros ocultos" que integra elementos de texto, imágenes, videos y bases de datos. Esta plataforma multifuncional permite a los usuarios colaborar, crear y modificar contenido de manera fluida. Desde la creación de nuevos geocachés geolocalizados y pistas para encontrarlos hasta los comentarios sobre la experiencia, los foros y las quedadas, Geocaching combina diversos medios y funcionalidades, ofreciendo una experiencia de usuario mejorada. Este entorno versátil fomenta la colaboración, la creatividad y el entretenimiento al permitir que los usuarios interactúen de múltiples maneras.
 
@@ -42,6 +43,11 @@ En conclusión, c:geo y Geocaching ejemplifican algunas de las estrategias de hi
 ***
 ## Re-descubriendo la hibridacion: [Webwhiteboard](https://Webwhiteboard.com/) 
 ![image](https://raw.github.com/Juanfran75/PEC3_Manovich_Reloaded/main/images/webwhiteboard2.png) 
+
+La idea de la hibridación de medios se refleja en la multitud de ejemplos presentes en nuestra vida cotidiana, abarcando diversas interfaces de usuario, aplicaciones web y móviles, diseño visual e interactivo, efectos visuales, medios locativos, entornos interactivos, arte digital y otros ámbitos de la cultura digital, según Manovich (2013, p.223).
+
+También define la hibridación como una “convergencia de medios en una misma estructura de datos, donde diferentes tipos de medios (texto, imagen, video, etc.) se integran en un mismo entorno”1
+
 Caso escogido (Cómo funciona y medios que incorpora)¿Se crea un nuevo lenguaje?¿Es una "evolución del medio" , o una "remezcla" de medios?
 
 ¿Qué tipo de hibridación se puede identificar en este caso? (según Manovich) ¿Qué estrategias de hibridación observas? (en capítulo 3 de Manovich)¿Hay nuevos tipos de representación híbridas? 
