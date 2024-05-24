@@ -18,7 +18,7 @@ Por lo tanto, para identificar un medio híbrido, es crucial observar cómo se i
 
 En un medio multimedia, los diferentes tipos de medios (como audio, texto y video) se pueden distinguir de forma individual y funcionan de manera autónoma dentro del mismo entorno. Es decir, cada tipo de medio conserva su independencia, aunque todos estén presentes en la misma plataforma.
 
-Como señala Manovich: "A diferencia de la multimedia, que simplemente presenta diferentes tipos de medios, la hibridación implica una integración dinámica y funcional entre ellos para crear nuevas formas de experiencia y uso" (Manovich, 2013, p.102). Esta distinción es fundamental para comprender la naturaleza de los medios híbridos, los cuales no sólo combinan elementos diversos, sino que los transforman en algo mayor que la suma de sus partes, generando así nuevas posibilidades de interacción y expresión que trascienden las limitaciones de los medios originales.
+Como señala Manovich: ""A diferencia de la multimedia, que simplemente presenta diferentes tipos de medios, la hibridación implica una integración dinámica y funcional entre ellos para crear nuevas formas de experiencia y uso"" (Manovich, 2013, p.102). Esta distinción es fundamental para comprender la naturaleza de los medios híbridos, los cuales no sólo combinan elementos diversos, sino que los transforman en algo mayor que la suma de sus partes, generando así nuevas posibilidades de interacción y expresión que trascienden las limitaciones de los medios originales.
 
 
 ## Re-descubriendo la hibridacion: [Geocaching](https://www.Geocaching.com/)
