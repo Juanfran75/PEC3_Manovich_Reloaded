@@ -32,7 +32,7 @@ Dentro de esta plataforma, la aplicación c:geo es un ejemplo destacado de hibri
 
 En conclusión, c:geo y Geocaching ejemplifican algunas de las estrategias de hibridación tratadas por Manovich, como la integración de funciones de diferentes aplicaciones (chats, foros, editor de texto, uso de bases de datos, etc.) en una sola interfaz. Esta hibridación puede considerarse una combinación de integración y transformación de medios, de acuerdo con las categorías definidas por Manovich (2013, p. 123). La capacidad de estas plataformas para fusionar diversas funcionalidades y medios en una experiencia coherente y envolvente ilustra claramente cómo la hibridación mediática está transformando nuestra interacción con la tecnología y la cultura digital.
 
-## Re-descubriendo la hibridacion: [Webwhiteboard](https://www.Webwhiteboard.com/) 
+## Re-descubriendo la hibridacion: [Webwhiteboard](https://Webwhiteboard.com/) 
 ![image](https://raw.github.com/Juanfran75/PEC3_Manovich_Reloaded/main/images/webwhiteboard.png) 
 Caso escogido (Cómo funciona y medios que incorpora)¿Se crea un nuevo lenguaje?¿Es una "evolución del medio" , o una "remezcla" de medios?
 
