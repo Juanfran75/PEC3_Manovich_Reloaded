@@ -21,8 +21,10 @@ En un medio multimedia, los diferentes tipos de medios (como audio, texto y vide
 Como señala Manovich: "A diferencia de la multimedia, que simplemente presenta diferentes tipos de medios, la hibridación implica una integración dinámica y funcional entre ellos para crear nuevas formas de experiencia y uso" (Manovich, 2013, p.102). Esta distinción es fundamental para comprender la naturaleza de los medios híbridos, los cuales no sólo combinan elementos diversos, sino que los transforman en algo mayor que la suma de sus partes, generando así nuevas posibilidades de interacción y expresión que trascienden las limitaciones de los medios originales.
 
 
-## Re-descubriendo la hibridacion: [Geocaching](https://www.Geocaching.com/)
+## Re-descubriendo la hibridacion: [Geocaching](https://www.Geocaching.com/) [![Alt text](https://img.youtube.com/vi/configuroweb/0.jpg)](https://www.youtube.com/watch?v=vuFiLhhCNww)
 ![image](https://raw.githubusercontent.com/Juanfran75/PEC3_Manovich_Reloaded/main/images/geocaching_1.jpg) 
+
+
 
 La idea de la hibridación de medios se refleja en la multitud de ejemplos presentes en nuestra vida cotidiana, abarcando diversas interfaces de usuario, aplicaciones web y móviles, diseño visual e interactivo, efectos visuales, medios locativos, entornos interactivos, arte digital y otros ámbitos de la cultura digital, según Manovich (2013, p.223).
 
