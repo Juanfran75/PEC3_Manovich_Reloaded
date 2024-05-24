@@ -27,15 +27,18 @@ Como señala Manovich: "A diferencia de la multimedia, que simplemente presenta 
 
 La idea de la hibridación de medios se refleja en la multitud de ejemplos presentes en nuestra vida cotidiana, abarcando diversas interfaces de usuario, aplicaciones web y móviles, diseño visual e interactivo, efectos visuales, medios locativos, entornos interactivos, arte digital y otros ámbitos de la cultura digital, según Manovich (2013, p.223).
 
-[![Video ¿Que es el Geocaching?](https://img.youtube.com/vi/vuFiLhhCNww/3.jpg)](https://www.youtube.com/watch?v=vuFiLhhCNww)
 
 Un ejemplo concreto de esta hibridación mediática es Geocaching, una plataforma de geolocalización de "tesoros ocultos" que integra elementos de texto, imágenes, videos y bases de datos. Esta plataforma multifuncional permite a los usuarios colaborar, crear y modificar contenido de manera fluida. Desde la creación de nuevos geocachés geolocalizados y pistas para encontrarlos hasta los comentarios sobre la experiencia, los foros y las quedadas, Geocaching combina diversos medios y funcionalidades, ofreciendo una experiencia de usuario mejorada. Este entorno versátil fomenta la colaboración, la creatividad y el entretenimiento al permitir que los usuarios interactúen de múltiples maneras.
 
-Dentro de esta plataforma, la aplicación c:geo es un ejemplo destacado de hibridación mediática. c:geo integra en una sola app un mapa con las localizaciones de los geocachés, las pistas, las rutas y la posición en tiempo real del usuario. Esto implica el uso de diversos medios como texto, imágenes, videos y bases de datos con posiciones y rutas, así como herramientas de comunicación con otros usuarios y funciones de posicionamiento en tiempo real.
-
 ![image](https://raw.githubusercontent.com/Juanfran75/PEC3_Manovich_Reloaded/main/images/geocaching_1.jpg) 
 
+Dentro de esta plataforma, la aplicación c:geo es un ejemplo destacado de hibridación mediática. c:geo integra en una sola app un mapa con las localizaciones de los geocachés, las pistas, las rutas y la posición en tiempo real del usuario. Esto implica el uso de diversos medios como texto, imágenes, videos y bases de datos con posiciones y rutas, así como herramientas de comunicación con otros usuarios y funciones de posicionamiento en tiempo real.
+
 En conclusión, c:geo y Geocaching ejemplifican algunas de las estrategias de hibridación tratadas por Manovich, como la integración de funciones de diferentes aplicaciones (chats, foros, editor de texto, uso de bases de datos, etc.) en una sola interfaz. Esta hibridación puede considerarse una combinación de integración y transformación de medios, de acuerdo con las categorías definidas por Manovich (2013, p. 123). La capacidad de estas plataformas para fusionar diversas funcionalidades y medios en una experiencia coherente y envolvente ilustra claramente cómo la hibridación mediática está transformando nuestra interacción con la tecnología y la cultura digital.
+
+\begin{center}
+[![Video ¿Que es el Geocaching?](https://img.youtube.com/vi/vuFiLhhCNww/3.jpg)](https://www.youtube.com/watch?v=vuFiLhhCNww)
+\end{center}
 
 ## Re-descubriendo la hibridacion: [Webwhiteboard](https://Webwhiteboard.com/) 
 ![image](https://raw.github.com/Juanfran75/PEC3_Manovich_Reloaded/main/images/webwhiteboard2.png) 
