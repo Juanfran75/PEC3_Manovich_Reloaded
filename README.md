@@ -63,7 +63,7 @@ video de introduccion al Geocaching
 
 ***
 ## Re-descubriendo la hibridacion: [Webwhiteboard](https://Webwhiteboard.com/) 
-![image](https://raw.github.com/Juanfran75/PEC3_Manovich_Reloaded/main/images/webwhiteboard2.png) 
+![image](https://raw.github.com/Juanfran75/PEC3_Manovich_Reloaded/main/images/webwhiteboard_all.png) 
 
 
 
@@ -76,6 +76,51 @@ video de introduccion al Geocaching
 
 
     "Creo que los mecanismos combinatorios que explican la evolución del «metamedio ordenador» y, en especial, la nueva estética visual híbrida que nace en los noventa sí pueden verse como un tipo de remezcla, con una importante salvedad. La remezcla canónica combina contenidos dentro de un mismo medio o contenidos procedentes de distintos medios. Por ejemplo, una remezcla musical puede combinar elementos musicales de distintos artistas; los videoclips de anime pueden combinar partes de películas de anime con música extraída de un videoclip. Los gráficos en movimiento de factura profesional y otros proyectos de imágenes en movimiento también suelen mezclar sistemáticamente contenidos del mismo o distintos medios. Por ejemplo, al principio del videoclip musical de «Go!», el vídeo alterna rápidamente entre imágenes rodadas de una habitación y un modelo tridimensional de la misma. Luego las escenas rodadas incorporan también una planta generada por ordenador y una imagen fotográfica fija de un paisaje montañoso. Las escenas de una bailarina se combinan con elaboradas tipografías animadas. Los personajes humanos se transforman en patrones abstractos animados." (p.123)
+
+
+ Share Miro content in other tools and take Miro with you wherever you work:
+
+    Zoom
+    Google Meet
+    Jira add-on
+    Jira Cards
+    Microsoft Teams: board embed
+    Microsoft Teams Meetings
+    Webex
+    Confluence
+    Airtable
+    Trello
+    Asana tasks & project briefs
+    Google Calendar
+    Rally
+    Azure cards
+
+Apps to help you work more effectively on the board 
+
+Install these apps to find shortcuts and ways to work more efficiently with Miro:
+
+    Powerpack
+    Super Search
+    Planning Poker
+    Easy Translator
+    Timer
+    Voting
+    
+Apps to help you import content to the Miro board
+
+    Upload files from file storage services and other apps: Google Drive, Box, OneDrive, Dropbox, Adobe Creative Cloud, Adobe XD, Figma, Sketch
+    Import images and icons from icon databases: Google Images, Brandfetch, Drawify, IconFinder, Unsplash
+
+Apps for receiving Miro notifications
+
+Stay focused with Miro notifications and board updates, where you need them:
+
+    Slack
+    Microsoft Teams
+
+ Import diagrams from draw.io, Visio, and Lucidchart. 
+ 
+ 
 
 Caso escogido (Cómo funciona y medios que incorpora)¿Se crea un nuevo lenguaje?¿Es una "evolución del medio" , o una "remezcla" de medios?
 
