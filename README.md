@@ -1,7 +1,7 @@
 
 # Visionando el futuro con las gafas de Manovich 
 
-![Cultura Digital](https://raw.githubusercontent.com/Juanfran75/PEC3_Manovich_Reloaded/main/images/banner.jpg)
+![Cultura Digital](https://raw.githubusercontent.com/Juanfran75/PEC3_Manovich_Reloaded/main/images/banner.jpg) 
 > **[Geocaching](https://www.Geocaching.com/) y [Webwhiteboard](https://www.Webwhiteboard.com/) a través de las Gafas de Manovich**
 
 ## Recurso de aprendizaje de Cultura Digital 
@@ -57,6 +57,9 @@ En conclusión, c:geo y Geocaching ejemplifican algunas de las estrategias de hi
 
 
 [![Video ¿Que es el Geocaching?](https://img.youtube.com/vi/vuFiLhhCNww/0.jpg)](https://www.youtube.com/watch?v=vuFiLhhCNww) ![image](https://raw.githubusercontent.com/Juanfran75/PEC3_Manovich_Reloaded/main/images/cgeo3.jpg) 
+video de introduccion al Geocaching
+
+
 
 ***
 ## Re-descubriendo la hibridacion: [Webwhiteboard](https://Webwhiteboard.com/) 
