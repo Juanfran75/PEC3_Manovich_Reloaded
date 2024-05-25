@@ -27,7 +27,11 @@ En un medio multimedia, los diferentes tipos de medios (como audio, texto y vide
 
 Esta distinción es fundamental para comprender la naturaleza de los medios híbridos, los cuales no sólo combinan elementos, sino que sobrepasan a estos y se combierten en una cosa distinta a la suma de sus partes, generando así nuevas posibilidades de interacción y expresión que superan las limitaciones impuestas por las caracteristicas de los medios originales.
 
-    "En resumen, un híbrido puede definir nuevas técnicas de navegación e interacción que funcionan con formatos de medios no modificados. Por otro lado, un híbrido puede definir nuevos formatos de medios, pero utilizar técnicas de interacción/interfaz ya existentes. Un híbrido también puede combinar ambas estrategias, es decir, definir nuevas interfaces/herramientas y nuevos formatos de medios al mismo tiempo.".
+    "En resumen, un híbrido puede definir nuevas técnicas de navegación e interacción que funcionan con 
+    formatos de medios no modificados. Por otro lado, un híbrido puede definir nuevos formatos de medios, 
+    pero utilizar técnicas de interacción/interfaz ya existentes. Un híbrido también puede combinar ambas 
+    estrategias, es decir, definir nuevas interfaces/herramientas y nuevos formatos de medios al mismo 
+    tiempo.".
     (Manovich, 2013, p.93)
 
 ***
