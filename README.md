@@ -37,7 +37,7 @@ tiempo". (Manovich, 2013, p.93)
 
 ![image](https://raw.githubusercontent.com/Juanfran75/PEC3_Manovich_Reloaded/main/images/geocaching_3.png) 
 
-
+La aplicacion web Webwhiteboard no es unicamente una remediacion de una whiteboard, mediante esta aplicacion varios usuarios pouden compartir e interactuar simultaneamente con la misma pizarra.
 
 Según Lev Manovich "Una vez traducidas a software, las técnicas de medios han empezado a actuar como una especie dentro una ecología común; en este caso, un entorno de software compartido. Una vez «liberadas» a este entorno, han empezado a interaccionar, mutar y fabricar híbridos.” (Manovich, 2013,p.76).Un ejemplo concreto de esta hibridación mediática es Geocaching, una plataforma de geolocalización de "tesoros ocultos" que integra elementos de texto, imágenes, videos y bases de datos. Esta plataforma multifuncional permite a los usuarios colaborar, crear y modificar contenido de manera fluida. Desde la creación de nuevos geocachés geolocalizados y pistas para encontrarlos hasta los comentarios sobre la experiencia, los foros y las quedadas, Geocaching combina diversos medios y funcionalidades, ofreciendo una experiencia de usuario mejorada. Este entorno versátil fomenta la colaboración, la creatividad y el entretenimiento al permitir que los usuarios interactúen de múltiples maneras.
 
