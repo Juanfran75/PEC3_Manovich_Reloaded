@@ -49,7 +49,7 @@ nuevas combinaciones de medios.». (Manovich, 2013,p.151)
 
 ![image](https://raw.githubusercontent.com/Juanfran75/PEC3_Manovich_Reloaded/main/images/geocaching_1.jpg) 
 
-Dentro de esta plataforma, la aplicación c:geo es un ejemplo destacado de hibridación mediática. c:geo integra en una sola app un mapa con las localizaciones de los geocachés, las pistas, las rutas y la posición en tiempo real del usuario. Esto implica el uso de diversos medios como texto, imágenes, videos y bases de datos con posiciones y rutas, así como herramientas de comunicación con otros usuarios y funciones de posicionamiento en tiempo real.
+Dentro de esta plataforma, la aplicación c:geo es un claro ejemplo de hibridación mediática. c:geo integra en una sola app un mapa con las localizaciones de los geocachés, las pistas, las rutas y la posición en tiempo real del usuario. Esto implica el uso de diversos medios como texto, imágenes, videos y bases de datos con posiciones y rutas, así como herramientas de comunicación con otros usuarios y funciones de posicionamiento en tiempo real.
 
 En conclusión, c:geo y Geocaching ejemplifican algunas de las estrategias de hibridación tratadas por Manovich, como la integración de funciones de diferentes aplicaciones (chats, foros, editor de texto, uso de bases de datos, etc.) en una sola interfaz. Esta hibridación puede considerarse una combinación de integración y transformación de medios, de acuerdo con las categorías definidas por Manovich (2013, p. 123). La capacidad de estas plataformas para fusionar diversas funcionalidades y medios en una experiencia coherente y envolvente ilustra claramente cómo la hibridación mediática está transformando nuestra interacción con la tecnología y la cultura digital.
 
@@ -67,7 +67,7 @@ En conclusión, c:geo y Geocaching ejemplifican algunas de las estrategias de hi
 
  > Aplicacion Webwhiteboard con varias de sus opciones desplegadas.
 
-La aplicacion web Webwhiteboard no es unicamente una remediacion de una whiteboard, mediante esta aplicacion varios usuarios pouden compartir e interactuar simultaneamente con la misma pizarra.
+La aplicacion web Webwhiteboard no es unicamente una remediacion de una whiteboard fisica, mediante esta aplicacion varios usuarios pueden compartir e interactuar simultaneamente con la misma pizarra.
 
 
     «Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados 
