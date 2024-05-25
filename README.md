@@ -75,9 +75,9 @@ Revisando Manovich en capítulos 3 y 5 (sobre todo) nos da una idea clara y ejem
 ## Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
-* https://www.geocaching.com/help/
-* https://www.youtube.com/@ComepiedrasGeocaching
-* c:geo. (2024). An open-source, full-featured, always ready-to-go Geocaching application. https://www.cgeo.org/
+* [geocaching]  [On line] https://www.geocaching.com/help/
+* [@ComepiedrasGeocaching] [On line] https://www.youtube.com/@ComepiedrasGeocaching
+* [ c:geo] [On line]. An open-source, full-featured, always ready-to-go Geocaching application. https://www.cgeo.org/
 
 ----
 
