@@ -14,11 +14,19 @@
 
 Según Lev Manovich, se produce una hibridación de medios cuando “Las propiedades y técnicas exclusivas de distintos medios se han convertido en elementos de software que pueden combinarse por vías que antes resultaban imposibles” (Manovich, 2013, p.183). Como resultado de esta combinación de medios diferentes se crea un medio totalmente nuevo. En este nuevo medio, las caracteristicas de los medios iniciales se integran de manera que el medio resultante no puede dividirse fácilmente en sus componentes originales. Esta convergencia de medios da como resultado funcionalidades que no existían en los medios originales.
 
+También define la hibridación desde otra perspectiva como una convergencia de medios en una misma estructura de datos, donde diferentes tipos de medios (texto, imagen, video, etc.) se integran en un mismo entorno.
+
 Por lo tanto, para identificar un medio híbrido, es crucial observar cómo se integran distintos tipos de medios para crear contenido y funcionalidades que no se puedan asociar a los medios originales de manera independiente. La característica esencial que diferencia a un medio híbrido de conceptos como la multimedia o la remediación es la fusión inseparable de sus componentes.
 
 En un medio multimedia, los diferentes tipos de medios (como audio, texto y video) se pueden distinguir de forma individual y funcionan de manera autónoma dentro del mismo entorno. Es decir, cada tipo de medio conserva su independencia, aunque todos estén presentes en la misma plataforma.
 
-Como señala Manovich:  "" A diferencia de la multimedia, que simplemente presenta diferentes tipos de medios, la hibridación implica una integración dinámica y funcional entre ellos para crear nuevas formas de experiencia y uso "" (Manovich, 2013, p.102). Esta distinción es fundamental para comprender la naturaleza de los medios híbridos, los cuales no sólo combinan elementos diversos, sino que los transforman en algo mayor que la suma de sus partes, generando así nuevas posibilidades de interacción y expresión que trascienden las limitaciones de los medios originales.
+    Como señala Manovich:" A diferencia de la multimedia, que simplemente presenta diferentes tipos de medios, la hibridación implica una integración dinámica y funcional entre ellos para crear nuevas formas de experiencia y uso".
+    (Manovich, 2013, p.102). 
+
+Esta distinción es fundamental para comprender la naturaleza de los medios híbridos, los cuales no sólo combinan elementos, sino que sobrepasan a estos y se combierten en una cosa distinta a la suma de sus partes, generando así nuevas posibilidades de interacción y expresión que superan las limitaciones impuestas por las caracteristicas de los medios originales.
+
+    "En resumen, un híbrido puede definir nuevas técnicas de navegación e interacción que funcionan con formatos de medios no modificados. Por otro lado, un híbrido puede definir nuevos formatos de medios, pero utilizar técnicas de interacción/interfaz ya existentes. Un híbrido también puede combinar ambas estrategias, es decir, definir nuevas interfaces/herramientas y nuevos formatos de medios al mismo tiempo.".
+    (Manovich, 2013, p.93)
 
 ***
 ## Re-descubriendo la hibridacion: [Geocaching](https://www.Geocaching.com/)
@@ -27,9 +35,12 @@ Como señala Manovich:  "" A diferencia de la multimedia, que simplemente presen
 
 
 
-Según Lev Manovich “Una vez traducidas a software, las técnicas de medios han empezado a actuar como una especie dentro una ecología común; en este caso, un entorno de software compartido. Una vez «liberadas» a este entorno, han empezado a interaccionar, mutar y fabricar híbridos.” 
+Según Lev Manovich "Una vez traducidas a software, las técnicas de medios han empezado a actuar como una especie dentro una ecología común; en este caso, un entorno de software compartido. Una vez «liberadas» a este entorno, han empezado a interaccionar, mutar y fabricar híbridos.” (Manovich, 2013,p.76).Un ejemplo concreto de esta hibridación mediática es Geocaching, una plataforma de geolocalización de "tesoros ocultos" que integra elementos de texto, imágenes, videos y bases de datos. Esta plataforma multifuncional permite a los usuarios colaborar, crear y modificar contenido de manera fluida. Desde la creación de nuevos geocachés geolocalizados y pistas para encontrarlos hasta los comentarios sobre la experiencia, los foros y las quedadas, Geocaching combina diversos medios y funcionalidades, ofreciendo una experiencia de usuario mejorada. Este entorno versátil fomenta la colaboración, la creatividad y el entretenimiento al permitir que los usuarios interactúen de múltiples maneras.
 
-Un ejemplo concreto de esta hibridación mediática es Geocaching, una plataforma de geolocalización de "tesoros ocultos" que integra elementos de texto, imágenes, videos y bases de datos. Esta plataforma multifuncional permite a los usuarios colaborar, crear y modificar contenido de manera fluida. Desde la creación de nuevos geocachés geolocalizados y pistas para encontrarlos hasta los comentarios sobre la experiencia, los foros y las quedadas, Geocaching combina diversos medios y funcionalidades, ofreciendo una experiencia de usuario mejorada. Este entorno versátil fomenta la colaboración, la creatividad y el entretenimiento al permitir que los usuarios interactúen de múltiples maneras.
+    «Las propiedades y técnicas exclusivas de distintos medios se han convertido en elementos de software que pueden combinarse por vías que antes resultaban imposibles.» «Tanto las tipologías de medios simuladas como las nuevas (texto, hipertexto, fotografías fijas, vídeo digital, animación en 2D y 3D, espacios navegables en 3D, mapas, información de localización) han pasado a funcionar como componentes de muchas nuevas combinaciones de medios.».
+    (Manovich, 2013,p.151)
+
+
 
 ![image](https://raw.githubusercontent.com/Juanfran75/PEC3_Manovich_Reloaded/main/images/geocaching_1.jpg) 
 
@@ -44,13 +55,10 @@ En conclusión, c:geo y Geocaching ejemplifican algunas de las estrategias de hi
 ## Re-descubriendo la hibridacion: [Webwhiteboard](https://Webwhiteboard.com/) 
 ![image](https://raw.github.com/Juanfran75/PEC3_Manovich_Reloaded/main/images/webwhiteboard2.png) 
 
-La idea de la hibridación de medios se refleja en la multitud de ejemplos presentes en nuestra vida cotidiana, abarcando diversas interfaces de usuario, aplicaciones web y móviles, diseño visual e interactivo, efectos visuales, medios locativos, entornos interactivos, arte digital y otros ámbitos de la cultura digital, según Manovich (2013, p.223).
 
-También define la hibridación como una “convergencia de medios en una misma estructura de datos, donde diferentes tipos de medios (texto, imagen, video, etc.) se integran en un mismo entorno”1
-
-«Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados y nuevos, es natural esperar que empezasen a generar híbridos. Y esto es lo que ha venido sucediendo en esta nueva etapa de evolución de los medios. Tanto los simulados como los nuevos de verdad (texto, hipertexto, fotografías fijas, vídeo digital, animaciones 2D y 3D, espacios navegables en 3D, mapas, información de localización) han pasado a funcionar como componentes de muchas nuevas combinaciones de medios». Manovich (2013, p. 204)
 
     «Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados y nuevos, es natural esperar que empezasen a generar híbridos. Y esto es lo que ha venido sucediendo en esta nueva etapa de evolución de los medios. Tanto los simulados como los nuevos de verdad (texto, hipertexto, fotografías fijas, vídeo digital, animaciones 2D y 3D, espacios navegables en 3D, mapas, información de localización) han pasado a funcionar como componentes de muchas nuevas combinaciones de medios».
+    Manovich (2013, p. 204)
 
 
 
