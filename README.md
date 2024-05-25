@@ -65,6 +65,8 @@ En conclusión, c:geo y Geocaching ejemplifican algunas de las estrategias de hi
 ## Re-descubriendo la hibridacion: [Webwhiteboard](https://Webwhiteboard.com/) 
 ![image](https://raw.github.com/Juanfran75/PEC3_Manovich_Reloaded/main/images/webwhiteboard_all.png) 
 
+ > Aplicacion Webwhiteboard con varias de sus opciones desplegadas.
+
 La aplicacion web Webwhiteboard no es unicamente una remediacion de una whiteboard, mediante esta aplicacion varios usuarios pouden compartir e interactuar simultaneamente con la misma pizarra.
 
 
