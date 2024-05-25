@@ -75,9 +75,10 @@ Revisando Manovich en capítulos 3 y 5 (sobre todo) nos da una idea clara y ejem
 ## Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
-* [geocaching]  [On line] https://www.geocaching.com/help/
-* [@ComepiedrasGeocaching] [On line] https://www.youtube.com/@ComepiedrasGeocaching
-* [ c:geo] [On line]. An open-source, full-featured, always ready-to-go Geocaching application. https://www.cgeo.org/
+* Adell Español [Ferran].(2013) [On line].Fundamentos y evolución de la multimedia. https://cultura-digital.aula.uoc.edu/es/1-4-la-hibridacion-de-los-medios/
+* [geocaching].[On line] https://www.geocaching.com/help/
+* [@ComepiedrasGeocaching].[On line] https://www.youtube.com/@ComepiedrasGeocaching
+* [ c:geo].[On line]. An open-source, full-featured, always ready-to-go Geocaching application. https://www.cgeo.org/
 
 ----
 
