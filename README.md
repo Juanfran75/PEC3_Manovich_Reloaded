@@ -14,13 +14,15 @@
 
 Según Lev Manovich, se produce una hibridación de medios cuando “Las propiedades y técnicas exclusivas de distintos medios se han convertido en elementos de software que pueden combinarse por vías que antes resultaban imposibles” (Manovich, 2013, p.183). Como resultado de esta combinación de medios diferentes se crea un medio totalmente nuevo. En este nuevo medio, las caracteristicas de los medios iniciales se integran de manera que el medio resultante no puede dividirse fácilmente en sus componentes originales. Esta convergencia de medios da como resultado funcionalidades que no existían en los medios originales.
 
-También define la hibridación desde otra perspectiva como una convergencia de medios en una misma estructura de datos, donde diferentes tipos de medios (texto, imagen, video, etc.) se integran en un mismo entorno.
+También define la hibridación, desde otra perspectiva, como una convergencia de medios en una misma estructura de datos, donde diferentes tipos de medios (texto, imagen, video, etc.) se integran en un mismo entorno.
 
 Por lo tanto, para identificar un medio híbrido, es crucial observar cómo se integran distintos tipos de medios para crear contenido y funcionalidades que no se puedan asociar a los medios originales de manera independiente. La característica esencial que diferencia a un medio híbrido de conceptos como la multimedia o la remediación es la fusión inseparable de sus componentes.
 
 En un medio multimedia, los diferentes tipos de medios (como audio, texto y video) se pueden distinguir de forma individual y funcionan de manera autónoma dentro del mismo entorno. Es decir, cada tipo de medio conserva su independencia, aunque todos estén presentes en la misma plataforma.
 
-    Como señala Manovich:" A diferencia de la multimedia, que simplemente presenta diferentes tipos de medios, la hibridación implica una integración dinámica y funcional entre ellos para crear nuevas formas de experiencia y uso".
+    Como señala Manovich:" A diferencia de la multimedia, que simplemente presenta diferentes tipos
+    de medios, la hibridación implica una integración dinámica y funcional entre ellos para crear nuevas
+    formas de experiencia y uso".
     (Manovich, 2013, p.102). 
 
 Esta distinción es fundamental para comprender la naturaleza de los medios híbridos, los cuales no sólo combinan elementos, sino que sobrepasan a estos y se combierten en una cosa distinta a la suma de sus partes, generando así nuevas posibilidades de interacción y expresión que superan las limitaciones impuestas por las caracteristicas de los medios originales.
