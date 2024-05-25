@@ -41,8 +41,11 @@ Esta distinción es fundamental para comprender la naturaleza de los medios híb
 
 Según Lev Manovich "Una vez traducidas a software, las técnicas de medios han empezado a actuar como una especie dentro una ecología común; en este caso, un entorno de software compartido. Una vez «liberadas» a este entorno, han empezado a interaccionar, mutar y fabricar híbridos.” (Manovich, 2013,p.76).Un ejemplo concreto de esta hibridación mediática es Geocaching, una plataforma de geolocalización de "tesoros ocultos" que integra elementos de texto, imágenes, videos y bases de datos. Esta plataforma multifuncional permite a los usuarios colaborar, crear y modificar contenido de manera fluida. Desde la creación de nuevos geocachés geolocalizados y pistas para encontrarlos hasta los comentarios sobre la experiencia, los foros y las quedadas, Geocaching combina diversos medios y funcionalidades, ofreciendo una experiencia de usuario mejorada. Este entorno versátil fomenta la colaboración, la creatividad y el entretenimiento al permitir que los usuarios interactúen de múltiples maneras.
 
-    «Las propiedades y técnicas exclusivas de distintos medios se han convertido en elementos de software que pueden combinarse por vías que antes resultaban imposibles.» «Tanto las tipologías de medios simuladas como las nuevas (texto, hipertexto, fotografías fijas, vídeo digital, animación en 2D y 3D, espacios navegables en 3D, mapas, información de localización) han pasado a funcionar como componentes de muchas nuevas combinaciones de medios.».
-    (Manovich, 2013,p.151)
+    «Las propiedades y técnicas exclusivas de distintos medios se han convertido en elementos de software 
+    que pueden combinarse por vías que antes resultaban imposibles.» «Tanto las tipologías de medios simuladas 
+    como las nuevas (texto, hipertexto, fotografías fijas, vídeo digital, animación en 2D y 3D, espacios 
+    navegables en 3D, mapas, información de localización) han pasado a funcionar como componentes de muchas 
+    nuevas combinaciones de medios.». (Manovich, 2013,p.151)
 
 
 
@@ -61,7 +64,11 @@ En conclusión, c:geo y Geocaching ejemplifican algunas de las estrategias de hi
 
 
 
-    «Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados y nuevos, es natural esperar que empezasen a generar híbridos. Y esto es lo que ha venido sucediendo en esta nueva etapa de evolución de los medios. Tanto los simulados como los nuevos de verdad (texto, hipertexto, fotografías fijas, vídeo digital, animaciones 2D y 3D, espacios navegables en 3D, mapas, información de localización) han pasado a funcionar como componentes de muchas nuevas combinaciones de medios».
+    «Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados 
+    y nuevos, es natural esperar que empezasen a generar híbridos. Y esto es lo que ha venido sucediendo en 
+    esta nueva etapa de evolución de los medios. Tanto los simulados como los nuevos de verdad (texto, hipertexto,
+    fotografías fijas, vídeo digital, animaciones 2D y 3D, espacios navegables en 3D, mapas, información de 
+    localización) han pasado a funcionar como componentes de muchas nuevas combinaciones de medios».
     Manovich (2013, p. 204)
 
 
