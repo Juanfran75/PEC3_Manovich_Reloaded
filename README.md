@@ -30,8 +30,7 @@ Esta distinción es fundamental para comprender la naturaleza de los medios híb
     "En resumen, un híbrido puede definir nuevas técnicas de navegación e interacción que funcionan con 
     formatos de medios no modificados. Por otro lado, un híbrido puede definir nuevos formatos de medios, 
     pero utilizar técnicas de interacción/interfaz ya existentes. Un híbrido también puede combinar ambas 
-    estrategias, es decir, definir nuevas interfaces/herramientas y nuevos formatos de medios al mismo 
-    tiempo.".
+    estrategias, es decir, definir nuevas interfaces/herramientas y nuevos formatos de medios al mismo tiempo.".
     (Manovich, 2013, p.93)
 
 ***
