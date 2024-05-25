@@ -20,17 +20,17 @@ Por lo tanto, para identificar un medio híbrido, es crucial observar cómo se i
 
 En un medio multimedia, los diferentes tipos de medios (como audio, texto y video) se pueden distinguir de forma individual y funcionan de manera autónoma dentro del mismo entorno. Es decir, cada tipo de medio conserva su independencia, aunque todos estén presentes en la misma plataforma.
 
-    Como señala Manovich:" A diferencia de la multimedia, que simplemente presenta diferentes tipos
-    de medios, la hibridación implica una integración dinámica y funcional entre ellos para crear nuevas
-    formas de experiencia y uso". (Manovich, 2013, p.102). 
+>Como señala Manovich:" A diferencia de la multimedia, que simplemente presenta diferentes tipos
+de medios, la hibridación implica una integración dinámica y funcional entre ellos para crear nuevas
+formas de experiencia y uso". (Manovich, 2013, p.102). 
 
 Esta distinción es fundamental para comprender la naturaleza de los medios híbridos, los cuales no sólo combinan elementos, sino que sobrepasan a estos y se combierten en una cosa distinta a la suma de sus partes, generando así nuevas posibilidades de interacción y expresión que superan las limitaciones impuestas por las caracteristicas de los medios originales.
 
-    "En resumen, un híbrido puede definir nuevas técnicas de navegación e interacción que funcionan con 
-    formatos de medios no modificados. Por otro lado, un híbrido puede definir nuevos formatos de medios, 
-    pero utilizar técnicas de interacción/interfaz ya existentes. Un híbrido también puede combinar ambas 
-    estrategias, es decir, definir nuevas interfaces/herramientas y nuevos formatos de medios al mismo 
-    tiempo". (Manovich, 2013, p.93)
+>"En resumen, un híbrido puede definir nuevas técnicas de navegación e interacción que funcionan con 
+ formatos de medios no modificados. Por otro lado, un híbrido puede definir nuevos formatos de medios, 
+pero utilizar técnicas de interacción/interfaz ya existentes. Un híbrido también puede combinar ambas 
+estrategias, es decir, definir nuevas interfaces/herramientas y nuevos formatos de medios al mismo 
+tiempo". (Manovich, 2013, p.93)
 
 ***
 ## Re-descubriendo la hibridacion: [Geocaching](https://www.Geocaching.com/)
@@ -41,11 +41,11 @@ Esta distinción es fundamental para comprender la naturaleza de los medios híb
 
 Según Lev Manovich "Una vez traducidas a software, las técnicas de medios han empezado a actuar como una especie dentro una ecología común; en este caso, un entorno de software compartido. Una vez «liberadas» a este entorno, han empezado a interaccionar, mutar y fabricar híbridos.” (Manovich, 2013,p.76).Un ejemplo concreto de esta hibridación mediática es Geocaching, una plataforma de geolocalización de "tesoros ocultos" que integra elementos de texto, imágenes, videos y bases de datos. Esta plataforma multifuncional permite a los usuarios colaborar, crear y modificar contenido de manera fluida. Desde la creación de nuevos geocachés geolocalizados y pistas para encontrarlos hasta los comentarios sobre la experiencia, los foros y las quedadas, Geocaching combina diversos medios y funcionalidades, ofreciendo una experiencia de usuario mejorada. Este entorno versátil fomenta la colaboración, la creatividad y el entretenimiento al permitir que los usuarios interactúen de múltiples maneras.
 
-    «Las propiedades y técnicas exclusivas de distintos medios se han convertido en elementos de software 
-    que pueden combinarse por vías que antes resultaban imposibles.» «Tanto las tipologías de medios simuladas 
-    como las nuevas (texto, hipertexto, fotografías fijas, vídeo digital, animación en 2D y 3D, espacios 
-    navegables en 3D, mapas, información de localización) han pasado a funcionar como componentes de muchas 
-    nuevas combinaciones de medios.». (Manovich, 2013,p.151)
+>«Las propiedades y técnicas exclusivas de distintos medios se han convertido en elementos de software 
+que pueden combinarse por vías que antes resultaban imposibles.» «Tanto las tipologías de medios simuladas 
+como las nuevas (texto, hipertexto, fotografías fijas, vídeo digital, animación en 2D y 3D, espacios 
+navegables en 3D, mapas, información de localización) han pasado a funcionar como componentes de muchas 
+nuevas combinaciones de medios.». (Manovich, 2013,p.151)
 
 
 
@@ -55,8 +55,10 @@ Dentro de esta plataforma, la aplicación c:geo es un ejemplo destacado de hibri
 
 En conclusión, c:geo y Geocaching ejemplifican algunas de las estrategias de hibridación tratadas por Manovich, como la integración de funciones de diferentes aplicaciones (chats, foros, editor de texto, uso de bases de datos, etc.) en una sola interfaz. Esta hibridación puede considerarse una combinación de integración y transformación de medios, de acuerdo con las categorías definidas por Manovich (2013, p. 123). La capacidad de estas plataformas para fusionar diversas funcionalidades y medios en una experiencia coherente y envolvente ilustra claramente cómo la hibridación mediática está transformando nuestra interacción con la tecnología y la cultura digital.
 
-video de introduccion al Geocaching
-[![Video ¿Que es el Geocaching?](https://img.youtube.com/vi/vuFiLhhCNww/0.jpg)](https://www.youtube.com/watch?v=vuFiLhhCNww) ![image](https://raw.githubusercontent.com/Juanfran75/PEC3_Manovich_Reloaded/main/images/cgeo3.jpg) 
+
+
+[![Video ¿Que es el Geocaching?](https://img.youtube.com/vi/vuFiLhhCNww/0.jpg)](https://www.youtube.com/watch?v=vuFiLhhCNww) 
+   > video de introduccion al Geocaching
 
 
 
@@ -80,45 +82,46 @@ video de introduccion al Geocaching
 
  Share Miro content in other tools and take Miro with you wherever you work:
 
-    Zoom
-    Google Meet
-    Jira add-on
-    Jira Cards
-    Microsoft Teams: board embed
-    Microsoft Teams Meetings
-    Webex
-    Confluence
-    Airtable
-    Trello
-    Asana tasks & project briefs
-    Google Calendar
-    Rally
-    Azure cards
+ +   Zoom
+ +   Google Meet
++    Jira add-on
+ +   Jira Cards
+  +  Microsoft Teams: board embed
+ +   Microsoft Teams Meetings
+ +   Webex
+ +   Confluence
+ +   Airtable
+ +   Trello
++    Asana tasks & project briefs
+ +  Google Calendar
+ +   Rally
+ +   Azure cards
 
 Apps to help you work more effectively on the board 
 
 Install these apps to find shortcuts and ways to work more efficiently with Miro:
 
-    Powerpack
-    Super Search
-    Planning Poker
-    Easy Translator
-    Timer
-    Voting
++    Powerpack
++    Super Search
++    Planning Poker
++    Easy Translator
++    Timer
++    Voting
     
 Apps to help you import content to the Miro board
 
-    Upload files from file storage services and other apps: Google Drive, Box, OneDrive, Dropbox, Adobe Creative Cloud, Adobe XD, Figma, Sketch
-    Import images and icons from icon databases: Google Images, Brandfetch, Drawify, IconFinder, Unsplash
+   + Upload files from file storage services and other apps: Google Drive, Box, OneDrive, Dropbox, Adobe Creative Cloud, Adobe XD, Figma, Sketch
+  +  Import images and icons from icon databases: Google Images, Brandfetch, Drawify, IconFinder, Unsplash
+  +   Import diagrams from draw.io, Visio, and Lucidchart. 
 
 Apps for receiving Miro notifications
 
 Stay focused with Miro notifications and board updates, where you need them:
 
-    Slack
-    Microsoft Teams
++    Slack
++    Microsoft Teams
 
- Import diagrams from draw.io, Visio, and Lucidchart. 
+
  
  
 
