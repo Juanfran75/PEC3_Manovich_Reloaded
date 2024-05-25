@@ -48,6 +48,13 @@ La idea de la hibridación de medios se refleja en la multitud de ejemplos prese
 
 También define la hibridación como una “convergencia de medios en una misma estructura de datos, donde diferentes tipos de medios (texto, imagen, video, etc.) se integran en un mismo entorno”1
 
+«Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados y nuevos, es natural esperar que empezasen a generar híbridos. Y esto es lo que ha venido sucediendo en esta nueva etapa de evolución de los medios. Tanto los simulados como los nuevos de verdad (texto, hipertexto, fotografías fijas, vídeo digital, animaciones 2D y 3D, espacios navegables en 3D, mapas, información de localización) han pasado a funcionar como componentes de muchas nuevas combinaciones de medios». Manovich (2013, p. 204)
+
+    «Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados y nuevos, es natural esperar que empezasen a generar híbridos. Y esto es lo que ha venido sucediendo en esta nueva etapa de evolución de los medios. Tanto los simulados como los nuevos de verdad (texto, hipertexto, fotografías fijas, vídeo digital, animaciones 2D y 3D, espacios navegables en 3D, mapas, información de localización) han pasado a funcionar como componentes de muchas nuevas combinaciones de medios».
+
+
+
+
 Caso escogido (Cómo funciona y medios que incorpora)¿Se crea un nuevo lenguaje?¿Es una "evolución del medio" , o una "remezcla" de medios?
 
 ¿Qué tipo de hibridación se puede identificar en este caso? (según Manovich) ¿Qué estrategias de hibridación observas? (en capítulo 3 de Manovich)¿Hay nuevos tipos de representación híbridas? 
