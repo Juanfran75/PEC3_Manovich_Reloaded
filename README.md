@@ -39,11 +39,16 @@ tiempo". (Manovich, 2013, p.93)
 
 Según Lev Manovich "Una vez traducidas a software, las técnicas de medios han empezado a actuar como una especie dentro una ecología común; en este caso, un entorno de software compartido. Una vez «liberadas» a este entorno, han empezado a interaccionar, mutar y fabricar híbridos.” (Manovich, 2013,p.76).Un ejemplo concreto de esta hibridación mediática es Geocaching, una plataforma de geolocalización de "tesoros ocultos" que integra elementos de texto, imágenes, videos y bases de datos. Esta plataforma multifuncional permite a los usuarios colaborar, crear y modificar contenido de manera fluida. Desde la creación de nuevos geocachés geolocalizados y pistas para encontrarlos hasta los comentarios sobre la experiencia, los foros y las quedadas, Geocaching combina diversos medios y funcionalidades, ofreciendo una experiencia de usuario mejorada. Este entorno versátil fomenta la colaboración, la creatividad y el entretenimiento al permitir que los usuarios interactúen de múltiples maneras.
 
->«Las propiedades y técnicas exclusivas de distintos medios se han convertido en elementos de software 
-que pueden combinarse por vías que antes resultaban imposibles.» «Tanto las tipologías de medios simuladas 
-como las nuevas (texto, hipertexto, fotografías fijas, vídeo digital, animación en 2D y 3D, espacios 
-navegables en 3D, mapas, información de localización) han pasado a funcionar como componentes de muchas 
-nuevas combinaciones de medios.». (Manovich, 2013,p.151)
+El tipo de hibridacion esta basada en la combinación de tipos de medios, combina diversos tipos de medios para proporcionar información más exhaustiva que los medios no pueden lograrlo de manera aislada (rutas, tesoros, fotos, comentarios de otros usuarios, foros...).
+
+  >«Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados 
+    y nuevos, es natural esperar que empezasen a generar híbridos. Y esto es lo que ha venido sucediendo en 
+    esta nueva etapa de evolución de los medios. Tanto los simulados como los nuevos de verdad (texto, hipertexto,
+    fotografías fijas, vídeo digital, animaciones 2D y 3D, espacios navegables en 3D, mapas, información de 
+    localización) han pasado a funcionar como componentes de muchas nuevas combinaciones de medios».
+    Manovich (2013, p. 204)
+
+
 
 
 
@@ -67,69 +72,31 @@ En conclusión, c:geo y Geocaching ejemplifican algunas de las estrategias de hi
 
  > Aplicacion Webwhiteboard con varias de sus opciones desplegadas.
 
-La aplicacion web Webwhiteboard no es unicamente una remediacion de una whiteboard fisica, mediante esta aplicacion varios usuarios pueden compartir e interactuar simultaneamente con la misma pizarra.
+Webwhiteboard no se limita a ser una simple traducción digital de una pizarra física. A través de esta aplicación, varios usuarios pueden compartir e interactuar simultáneamente con la misma pizarra, lo que multiplica las posibilidades de colaboración y comunicación en tiempo real. Esta capacidad de interacción simultánea significa que múltiples usuarios pueden agregar, modificar y comentar contenido al mismo tiempo, sin las restricciones físicas de una pizarra tradicional. Esto fomenta un entorno de trabajo más dinámico y colaborativo, donde las ideas pueden fluir y evolucionar rápidamente a medida que diferentes participantes contribuyen.
+
+Webwhiteboard no solo permite la colaboración simultánea, sino que también integra diversas aplicaciones que mejoran la eficiencia del trabajo en la pizarra. Por ejemplo, se puede almacenar el contenido en la nube, lo que facilita el acceso y la seguridad de la información. Además, la integración con sistemas de videoconferencias permite que las reuniones y las sesiones de brainstorming sean más efectivas, ya que los participantes pueden ver y modificar la pizarra en tiempo real durante las discusiones. También es posible sincronizar la pizarra con calendarios para programar eventos y recordatorios, y con gestores de tareas y proyectos para asignar y seguir el progreso de las actividades relacionadas con el contenido de la pizarra.
+
+>«Las propiedades y técnicas exclusivas de distintos medios se han convertido en elementos de software 
+que pueden combinarse por vías que antes resultaban imposibles.» «Tanto las tipologías de medios simuladas 
+como las nuevas (texto, hipertexto, fotografías fijas, vídeo digital, animación en 2D y 3D, espacios 
+navegables en 3D, mapas, información de localización) han pasado a funcionar como componentes de muchas 
+nuevas combinaciones de medios.». (Manovich, 2013,p.151)
 
 
-    «Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados 
-    y nuevos, es natural esperar que empezasen a generar híbridos. Y esto es lo que ha venido sucediendo en 
-    esta nueva etapa de evolución de los medios. Tanto los simulados como los nuevos de verdad (texto, hipertexto,
-    fotografías fijas, vídeo digital, animaciones 2D y 3D, espacios navegables en 3D, mapas, información de 
-    localización) han pasado a funcionar como componentes de muchas nuevas combinaciones de medios».
-    Manovich (2013, p. 204)
+La hibridación que se observa en Webwhiteboard se basa en el uso de la pizarra digital en 2D como una interfaz que integra y conecta diversos tipos de medios. Esta interfaz permite la incorporación de texto, imágenes, videos y otros recursos multimedia en un solo espacio interactivo. Por ejemplo, se puede insertar un video explicativo directamente en la pizarra, o añadir enlaces a documentos y recursos externos que enriquecen el contenido. Además, la pizarra actúa como un nodo central donde convergen distintas herramientas y plataformas, permitiendo una experiencia de usuario más integrada y cohesiva. Esta capacidad de combinar diferentes tipos de medios en un solo entorno digital no solo amplía las posibilidades de comunicación y presentación de ideas, sino que también facilita un aprendizaje y una colaboración más profundos y multifacéticos.
 
 
-    "Creo que los mecanismos combinatorios que explican la evolución del «metamedio ordenador» y, en especial, la nueva estética visual híbrida que nace en los noventa sí pueden verse como un tipo de remezcla, con una importante salvedad. La remezcla canónica combina contenidos dentro de un mismo medio o contenidos procedentes de distintos medios. Por ejemplo, una remezcla musical puede combinar elementos musicales de distintos artistas; los videoclips de anime pueden combinar partes de películas de anime con música extraída de un videoclip. Los gráficos en movimiento de factura profesional y otros proyectos de imágenes en movimiento también suelen mezclar sistemáticamente contenidos del mismo o distintos medios. Por ejemplo, al principio del videoclip musical de «Go!», el vídeo alterna rápidamente entre imágenes rodadas de una habitación y un modelo tridimensional de la misma. Luego las escenas rodadas incorporan también una planta generada por ordenador y una imagen fotográfica fija de un paisaje montañoso. Las escenas de una bailarina se combinan con elaboradas tipografías animadas. Los personajes humanos se transforman en patrones abstractos animados." (p.123)
+En resumen, Webwhiteboard no solo reinterpreta la función de una pizarra física, sino que la expande significativamente mediante la integración de tecnologías y aplicaciones que potencian la colaboración y la eficiencia, y a través de una hibridación que unifica diversos medios en una interfaz intuitiva y versátil.
 
 
- Share Miro content in other tools and take Miro with you wherever you work:
 
- +   Zoom
- +   Google Meet
-+    Jira add-on
- +   Jira Cards
-  +  Microsoft Teams: board embed
- +   Microsoft Teams Meetings
- +   Webex
- +   Confluence
- +   Airtable
- +   Trello
-+    Asana tasks & project briefs
- +  Google Calendar
- +   Rally
- +   Azure cards
-
-Apps to help you work more effectively on the board 
-
-Install these apps to find shortcuts and ways to work more efficiently with Miro:
-
-+    Powerpack
-+    Super Search
-+    Planning Poker
-+    Easy Translator
-+    Timer
-+    Voting
-    
-Apps to help you import content to the Miro board
-
-   + Upload files from file storage services and other apps: Google Drive, Box, OneDrive, Dropbox, Adobe Creative Cloud, Adobe XD, Figma, Sketch
-  +  Import images and icons from icon databases: Google Images, Brandfetch, Drawify, IconFinder, Unsplash
-  +   Import diagrams from draw.io, Visio, and Lucidchart. 
-
-Apps for receiving Miro notifications
-
-Stay focused with Miro notifications and board updates, where you need them:
-
-+    Slack
-+    Microsoft Teams
-
-
- 
- 
 
 Caso escogido (Cómo funciona y medios que incorpora)¿Se crea un nuevo lenguaje?¿Es una "evolución del medio" , o una "remezcla" de medios?
 
 ¿Qué tipo de hibridación se puede identificar en este caso? (según Manovich) ¿Qué estrategias de hibridación observas? (en capítulo 3 de Manovich)¿Hay nuevos tipos de representación híbridas? 
 ¿Hay nuevas maneras de interaccionar con los medios? 
+
+
 Valoraciones personales y bibliografía
 
 Revisando Manovich en capítulos 3 y 5 (sobre todo) nos da una idea clara y ejemplos ilustrativos.
