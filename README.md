@@ -2,7 +2,7 @@
 # Visionando el futuro con las gafas de Manovich 
 
 ![Cultura Digital](https://raw.githubusercontent.com/Juanfran75/PEC3_Manovich_Reloaded/main/images/banner.jpg) 
-> **[Geocaching](https://www.Geocaching.com/) y [Webwhiteboard](https://www.Webwhiteboard.com/) a través de las Gafas de Manovich**
+> [Geocaching](https://www.Geocaching.com/) y [Webwhiteboard](https://www.Webwhiteboard.com/) a través de las Gafas de Manovich
 
 ## Recurso de aprendizaje de Cultura Digital 
 
@@ -20,17 +20,17 @@ Por lo tanto, para identificar un medio híbrido, es crucial observar cómo se i
 
 En un medio multimedia, los diferentes tipos de medios (como audio, texto y video) se pueden distinguir de forma individual y funcionan de manera autónoma dentro del mismo entorno. Es decir, cada tipo de medio conserva su independencia, aunque todos estén presentes en la misma plataforma.
 
->Como señala Manovich:" A diferencia de la multimedia, que simplemente presenta diferentes tipos
+> **Como señala Manovich:" A diferencia de la multimedia, que simplemente presenta diferentes tipos
 de medios, la hibridación implica una integración dinámica y funcional entre ellos para crear nuevas
-formas de experiencia y uso". (Manovich, 2013, p.102). 
+formas de experiencia y uso". (Manovich, 2013, p.102).**
 
 Esta distinción es fundamental para comprender la naturaleza de los medios híbridos, los cuales no sólo combinan elementos, sino que sobrepasan a estos y se combierten en una cosa distinta a la suma de sus partes, generando así nuevas posibilidades de interacción y expresión que superan las limitaciones impuestas por las caracteristicas de los medios originales.
 
->"En resumen, un híbrido puede definir nuevas técnicas de navegación e interacción que funcionan con 
+>**"En resumen, un híbrido puede definir nuevas técnicas de navegación e interacción que funcionan con 
  formatos de medios no modificados. Por otro lado, un híbrido puede definir nuevos formatos de medios, 
 pero utilizar técnicas de interacción/interfaz ya existentes. Un híbrido también puede combinar ambas 
 estrategias, es decir, definir nuevas interfaces/herramientas y nuevos formatos de medios al mismo 
-tiempo". (Manovich, 2013, p.93)
+tiempo". (Manovich, 2013, p.93)**
 
 ***
 ## Re-descubriendo la hibridacion: [Geocaching](https://www.Geocaching.com/)
@@ -41,12 +41,12 @@ Según Lev Manovich "Una vez traducidas a software, las técnicas de medios han 
 
 Respecto a la estrategia de hibridacion, esta basada en la combinación de tipos de medios, combina diversos tipos de medios para proporcionar información más exhaustiva que los medios no pueden lograrlo de manera aislada (rutas, tesoros, fotos, comentarios de otros usuarios, foros...).
 
-  >«Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados 
+  >**«Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados 
     y nuevos, es natural esperar que empezasen a generar híbridos. Y esto es lo que ha venido sucediendo en 
     esta nueva etapa de evolución de los medios. Tanto los simulados como los nuevos de verdad (texto, hipertexto,
     fotografías fijas, vídeo digital, animaciones 2D y 3D, espacios navegables en 3D, mapas, información de 
     localización) han pasado a funcionar como componentes de muchas nuevas combinaciones de medios».
-    Manovich (2013, p. 204)
+    Manovich (2013, p. 204)**
 
 
 
@@ -70,17 +70,17 @@ En conclusión, c:geo y Geocaching ejemplifican algunas de las estrategias de hi
 ## Re-descubriendo la hibridacion: [Webwhiteboard](https://Webwhiteboard.com/) 
 ![image](https://raw.github.com/Juanfran75/PEC3_Manovich_Reloaded/main/images/webwhiteboard_all.png) 
 
- > Aplicacion Webwhiteboard con varias de sus opciones desplegadas.
+ >  Aplicacion Webwhiteboard con varias de sus opciones desplegadas.
 
 Webwhiteboard no se limita a ser una simple traducción digital de una pizarra física. A través de esta aplicación, varios usuarios pueden compartir e interactuar simultáneamente con la misma pizarra, lo que multiplica las posibilidades de colaboración y comunicación en tiempo real. Esta capacidad de interacción simultánea significa que múltiples usuarios pueden agregar, modificar y comentar contenido al mismo tiempo, sin las restricciones físicas de una pizarra tradicional. Esto fomenta un entorno de trabajo más dinámico y colaborativo, donde las ideas pueden fluir y evolucionar rápidamente a medida que diferentes participantes contribuyen.
 
 Webwhiteboard permite la colaboración simultánea y también integra diversas aplicaciones que mejoran la eficiencia del trabajo en la pizarra. Por ejemplo, se puede almacenar el contenido en la nube, lo que facilita el acceso y la seguridad de la información. Además, la integración con sistemas de videoconferencias permite que las reuniones y las sesiones de brainstorming sean más efectivas, ya que los participantes pueden ver y modificar la pizarra en tiempo real durante las discusiones. También es posible sincronizar la pizarra con calendarios para programar eventos y recordatorios, y con gestores de tareas y proyectos para asignar y seguir el progreso de las actividades relacionadas con el contenido de la pizarra.
 
->«Las propiedades y técnicas exclusivas de distintos medios se han convertido en elementos de software 
+>**«Las propiedades y técnicas exclusivas de distintos medios se han convertido en elementos de software 
 que pueden combinarse por vías que antes resultaban imposibles.» «Tanto las tipologías de medios simuladas 
 como las nuevas (texto, hipertexto, fotografías fijas, vídeo digital, animación en 2D y 3D, espacios 
 navegables en 3D, mapas, información de localización) han pasado a funcionar como componentes de muchas 
-nuevas combinaciones de medios.». (Manovich, 2013,p.151)
+nuevas combinaciones de medios.». (Manovich, 2013,p.151)**
 
 La estrategia de hibridación que se observa en Webwhiteboard se basa en el uso de la pizarra digital en 2D como una interfaz que integra y conecta diversos tipos de medios. Esta interfaz permite la incorporación de texto, imágenes, videos, multitud de aplicaciones de terceros y otros recursos multimedia en un solo espacio interactivo. Por ejemplo, se puede insertar un video explicativo directamente en la pizarra, o añadir enlaces a documentos, graficos, diagramas,aplicaciones y recursos externos que enriquecen el contenido. Además, la pizarra actúa como un nodo central donde convergen distintas herramientas y plataformas, permitiendo una experiencia de usuario más integrada y cohesiva. Esta capacidad de combinar diferentes tipos de medios en un solo entorno digital no solo amplía las posibilidades de comunicación y presentación de ideas, sino que también facilita un aprendizaje y una colaboración más profundos y multifacéticos.
 
@@ -90,7 +90,7 @@ En resumen, Webwhiteboard no solo reinterpreta la función de una pizarra físic
 
 
 
-
+***
 Caso escogido (Cómo funciona y medios que incorpora)¿Se crea un nuevo lenguaje?¿Es una "evolución del medio" , o una "remezcla" de medios?
 
 ¿Qué tipo de hibridación se puede identificar en este caso? (según Manovich) ¿Qué estrategias de hibridación observas? (en capítulo 3 de Manovich)¿Hay nuevos tipos de representación híbridas? 
@@ -101,10 +101,10 @@ Valoraciones personales y bibliografía
 
 Revisando Manovich en capítulos 3 y 5 (sobre todo) nos da una idea clara y ejemplos ilustrativos.
 
-
+***
 ## Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Manovich, Lev. (2013). ***El Software toma el mando***. Barcelona: Editorial UOC. 
 * Adell Español [Ferran].(2013) [On line].Fundamentos y evolución de la multimedia. https://cultura-digital.aula.uoc.edu/es/1-4-la-hibridacion-de-los-medios/
 * [geocaching].[On line] https://www.geocaching.com/help/
 * [@ComepiedrasGeocaching].[On line] https://www.youtube.com/@ComepiedrasGeocaching
