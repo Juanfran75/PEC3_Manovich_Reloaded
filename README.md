@@ -6,7 +6,8 @@
 
 ## Recurso de aprendizaje de Cultura Digital 
 
-**Autor: Juan Francisco Fernandez Dominguez** &nbsp;
+**Autor: Juan Francisco Fernandez Dominguez**
+
 **Fecha: 21-05-2024**
 
 ## Introducción
