@@ -23,7 +23,7 @@ En un medio multimedia, los diferentes tipos de medios (como audio, texto y vide
 de medios, la hibridación implica una integración dinámica y funcional entre ellos para crear nuevas
 formas de experiencia y uso". (Manovich, 2013, p.102).*
 
-Esta distinción es fundamental para comprender la naturaleza de los medios híbridos, los cuales no sólo combinan elementos, sino que sobrepasan a estos y se convierten en una cosa distinta a la suma de sus partes, generando así nuevas posibilidades de interacción y expresión que superan las limitaciones impuestas por las características de los medios originales , similar a la posicion adoptada por la doctrina Holistica. (Wikipedia, 2024, https://es.wikipedia.org/wiki/Holismo).
+Esta distinción es fundamental para comprender la naturaleza de los medios híbridos, los cuales no sólo combinan elementos, sino que sobrepasan a estos y se convierten en una cosa distinta a la suma de sus partes, generando así nuevas posibilidades de interacción y expresión que superan las limitaciones impuestas por las características de los medios originales , similar a la posicion adoptada por la doctrina Holistica. (Wikipedia, 2024, [Holismo](https://es.wikipedia.org/wiki/Holismo)).
 
 >*"En resumen, un híbrido puede definir nuevas técnicas de navegación e interacción que funcionan con 
  formatos de medios no modificados. Por otro lado, un híbrido puede definir nuevos formatos de medios, 
