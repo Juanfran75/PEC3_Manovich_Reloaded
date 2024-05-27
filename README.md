@@ -84,12 +84,12 @@ En resumen, Webwhiteboard no solo reinterpreta la función de una pizarra físic
 ## Referencias y Bibliografía
 
 * Manovich, Lev. (2013). *El Software toma el mando*. Barcelona: Editorial UOC. 
-* Adell Español [Ferran].(2013). [Recurso online consultado en mayo del 2024].*Fundamentos y evolución de la multimedia*. https://cultura-digital.aula.uoc.edu/es/1-4-la-hibridacion-de-los-medios/
- * Adell Español [Ferran].(2024).[Recurso online consultado en mayo del 2024].*Fundamentos y evolución de la multimedia*.http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
-* [geocaching].[Recurso online consultado en mayo del 2024].https://www.geocaching.com/help/
-* [@ComepiedrasGeocaching].[On line]. [consultado en mayo del 2014]. https://www.youtube.com/@ComepiedrasGeocaching
-* [ c:geo].[Recurso online consultado en mayo del 2024]. An open-source, full-featured, always ready-to-go Geocaching application. https://www.cgeo.org/
-* Wikipedia.[Wikipedia](2024)[Recurso online consultado en mayo del 2024].*Holismo*.Wikipedia la enciclopedia libre.https://es.wikipedia.org/wiki/Holismo
+* Adell Español [Ferran].(2013).*Fundamentos y evolución de la multimedia*. [recurso online].Disponible en: https://cultura-digital.aula.uoc.edu/es/1-4-la-hibridacion-de-los-medios/ .
+ * Adell Español [Ferran].(2024).*Fundamentos y evolución de la multimedia*.[recurso online].Disponible en: http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/ .
+* [geocaching].[recurso online].Disponible en: https://www.geocaching.com/help/ .
+* [@ComepiedrasGeocaching].[recurso online].Disponible en: https://www.youtube.com/@ComepiedrasGeocaching .
+* [ c:geo]. An open-source, full-featured, always ready-to-go Geocaching application.[recurso online].Disponible en: https://www.cgeo.org/ .
+* Wikipedia.[Wikipedia](2024).*Holismo*.Wikipedia la enciclopedia libre.[recurso online].Disponible en: https://es.wikipedia.org/wiki/Holismo .
 
 ***
 
