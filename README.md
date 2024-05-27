@@ -22,7 +22,7 @@ En un medio multimedia, los diferentes tipos de medios (como audio, texto y vide
 de medios, la hibridación implica una integración dinámica y funcional entre ellos para crear nuevas
 formas de experiencia y uso". (Manovich, 2013, p.102).**
 
-Esta distinción es fundamental para comprender la naturaleza de los medios híbridos, los cuales no sólo combinan elementos, sino que sobrepasan a estos y se convierten en una cosa distinta a la suma de sus partes, generando así nuevas posibilidades de interacción y expresión que superan las limitaciones impuestas por las características de los medios originales.
+Esta distinción es fundamental para comprender la naturaleza de los medios híbridos, los cuales no sólo combinan elementos, sino que sobrepasan a estos y se convierten en una cosa distinta a la suma de sus partes, generando así nuevas posibilidades de interacción y expresión que superan las limitaciones impuestas por las características de los medios originales , similar a la posicion adoptada por la doctrina Holistica. (Wikipedia, 2024, https://es.wikipedia.org/wiki/Holismo).
 
 >**"En resumen, un híbrido puede definir nuevas técnicas de navegación e interacción que funcionan con 
  formatos de medios no modificados. Por otro lado, un híbrido puede definir nuevos formatos de medios, 
@@ -83,12 +83,12 @@ En resumen, Webwhiteboard no solo reinterpreta la función de una pizarra físic
 ## Referencias y Bibliografía
 
 * Manovich, Lev. (2013). ***El Software toma el mando***. Barcelona: Editorial UOC. 
-* Adell Español [Ferran].(2013). [On line] .[consultado en mayo del 2014].Fundamentos y evolución de la multimedia. https://cultura-digital.aula.uoc.edu/es/1-4-la-hibridacion-de-los-medios/
- * Adell Español [Ferran].(2014) [On line] [consultado en mayo del 2014].Fundamentos y evolución de la multimedia.http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
-* [geocaching].[On line] [consultado en mayo del 2014]https://www.geocaching.com/help/
+* Adell Español [Ferran].(2013). [Recurso online consultado en mayo del 2024].Fundamentos y evolución de la multimedia. https://cultura-digital.aula.uoc.edu/es/1-4-la-hibridacion-de-los-medios/
+ * Adell Español [Ferran].(2014).[Recurso online consultado en mayo del 2024].Fundamentos y evolución de la multimedia.http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
+* [geocaching].[Recurso online consultado en mayo del 2024]https://www.geocaching.com/help/
 * [@ComepiedrasGeocaching].[On line]. [consultado en mayo del 2014]. https://www.youtube.com/@ComepiedrasGeocaching
-* [ c:geo].[On line]. [consultado en mayo del 2014]. An open-source, full-featured, always ready-to-go Geocaching application. https://www.cgeo.org/
-
+* [ c:geo].[Recurso online consultado en mayo del 2024]. An open-source, full-featured, always ready-to-go Geocaching application. https://www.cgeo.org/
+*Wikipedia.[Wikipedia](2024)[Recurso online consultado en mayo del 2024]. Wikipedia la enciclopedia libre.https://es.wikipedia.org/wiki/Holismo
 
 ***
 
