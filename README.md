@@ -76,7 +76,7 @@ La estrategia de hibridación que se observa en Webwhiteboard se basa en el uso 
 
 En este mismo sentido, la pizarra actúa como un nodo central donde convergen distintas herramientas y plataformas, permitiendo una experiencia de usuario más integrada y cohesionada. Esta capacidad de combinar diferentes tipos de medios en un solo entorno digital no solo amplía las posibilidades de comunicación y presentación de ideas, sino que también facilita un aprendizaje, optimiza la gestión de proyectos y la productividad del equipo con una colaboración más dinámica y efectiva.
 
-En resumen, Webwhiteboard no solo reinterpreta la función de una pizarra física, sino que la amplia consideradamente mediante la integración de tecnologías y aplicaciones que potencian la colaboración y la eficiencia. Mediante una hibridación usando un tipo de medios como interfaz para otro tipo (Manovich, 2013,p.89) , que unifica diversos medios en una interfaz intuitiva y versátil. Por lo tanto, es ejemplo de cómo la hibridación de interfaces y tenológica puede transformar una herramienta digital en una plataforma de colaboración poderosa.
+En resumen, Webwhiteboard no solo reinterpreta la función de una pizarra física, sino que la amplia consideradamente mediante la integración de tecnologías y aplicaciones que potencian la colaboración y la eficiencia. Mediante una hibridación usando un tipo de medios como interfaz para otro tipo (Manovich, 2013,p.89) , que unifica diversos medios en una interfaz intuitiva y versátil. Por lo tanto, segun Manovich (2013, p.93) nos encontramos ante un claro ejemplo de cómo la hibridación de interfaces y tenológica puede transformar una herramienta digital en una plataforma de colaboración poderosa.
 
 ***
 
