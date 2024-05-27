@@ -89,7 +89,7 @@ En resumen, Webwhiteboard no solo reinterpreta la función de una pizarra físic
 * [geocaching].[Recurso online consultado en mayo del 2024].https://www.geocaching.com/help/
 * [@ComepiedrasGeocaching].[On line]. [consultado en mayo del 2014]. https://www.youtube.com/@ComepiedrasGeocaching
 * [ c:geo].[Recurso online consultado en mayo del 2024]. An open-source, full-featured, always ready-to-go Geocaching application. https://www.cgeo.org/
-*Wikipedia.[Wikipedia](2024)[Recurso online consultado en mayo del 2024].*Holismo*.Wikipedia la enciclopedia libre.https://es.wikipedia.org/wiki/Holismo
+* Wikipedia.[Wikipedia](2024)[Recurso online consultado en mayo del 2024].*Holismo*.Wikipedia la enciclopedia libre.https://es.wikipedia.org/wiki/Holismo
 
 ***
 
